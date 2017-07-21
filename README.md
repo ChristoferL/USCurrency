@@ -1,2 +1,4 @@
-# USCurrency
-Trying to add real cash to the currency mod
+currency
+========
+
+Repo for Currency Mod

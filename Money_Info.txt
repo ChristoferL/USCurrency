@@ -1,0 +1,41 @@
+US Currency - Added US money for use in elementary school exercises. There is no 'true' ecponomy behind this. There is no complicated scheme valued through Gold at this point. The value of the cash is simply assumed through the course of the students using it to control their worlds with 'real' references. 
+
+* todo - add the option for the currency to work in a penny per penny value sense. ie - shops can accept any variation of a value ( 25 cents = quarter or 2 dime and a nickel - or 25 pennies - etc).
+
+I did use crafting recipes to allow the player to create needed forms of money. ie - is shop asks for one dime and player has 2 nickels, the student can craft a dime by combining the two nickels in the crafting grid.
+
+THE FOLLOWING COMES FROM THE ORIGINAL MOD - Currency
+---------
+originally - Mine-Geld
+---------
+
+They have no recipe.
+A good starting amount is about 250Mg on a server
+
+You currently get a basic income of 1 Minegeld per day, 
+so long as you dig at least one node in that day 
+and have an empty inventory slot for the money to go in.
+
+Lump Conversion
+
+Coal Lump ~1Mg
+Iron Lump ~4Mg
+Copper Lump ~4Mg
+Gold Lump ~5Mg
+Mese Crystal ~40Mg
+Diamond ~50Mg
+
+Ingot Conversion
+
+Steel Ingot ~5Mg
+Copper Ingot ~5Mg
+Gold Ingot ~6Mg
+
+Block Conversion
+
+Coal Block ~9Mg
+Steel Block ~45Mg
+Copper Block ~45Mg
+Gold Block ~54Mg
+Mese Block ~360Mg
+Diamond Block ~450Mg
